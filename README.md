@@ -1,1 +1,1 @@
-# Manga-Downloader
+# KHub-Manga
